@@ -5,7 +5,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "style": "index.css",
-  "author": "Ingo Steinke <contact@ingo-steinke.com> (https://www.ingo-steinke.com)",
+  "author": "Ingo Steinke <contact@ingo-steinke.com> (https://www.ingo-steinke.de)",
   "description": "TypeScript utility to enhance a hexagonal masonry-like flexbox layout",
   "readme": "README.md",
   "keywords": [

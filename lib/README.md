@@ -65,3 +65,7 @@ and make sure to
 - `npm login` etc. as described in the official publishing documentation.
 
 Then publish to the npmjs repository.
+
+### Author
+
+Author and maintainer: [Ingo Steinke](https://www.npmjs.com/~ingosteinke), creative web developer: [https://www.ingo-steinke.de](https://www.ingo-steinke.de)
