@@ -2,7 +2,9 @@
 
 ## Description
 
-Use the `hexagonal-masonry-placement` frontend web layout utility to move DOM item positions to make hexagonal shapes fit more closely in a masonry-like grid layout, like honeycomb tiling, arranging items in a hexagonal pattern, minimizing gaps.
+Use the [hexagonal-masonry-placement](https://www.npmjs.com/package/hexagonal-masonry-placement) frontend web layout utility to move DOM item positions to make hexagonal shapes fit more closely in a masonry-like grid layout, like honeycomb tiling, arranging items in a hexagonal pattern, minimizing gaps.
+
+- `npm install hexagonal-masonry-placement`
 
 The utility requires HTML markup and CSS styles similar to the example code. You can use the provided base styles in `index.css` or provide your own.
 

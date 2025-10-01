@@ -33,6 +33,6 @@
     "typescript-eslint": "^8.45.0"
   },
   "scripts": {
-    "build": "tsc && cpx src/index.css lib && cpx src/package.json lib && cpx README.md lib"
+    "build": "tsc && cpx src/index.css lib && cpx src/package.json lib"
   }
 }
