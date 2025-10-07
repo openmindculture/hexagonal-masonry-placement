@@ -30,7 +30,35 @@ Default use case:
 </ul>
 ```
 
-See https://github.com/openmindculture/hexagonal-masonry-placement/examples/index.html
+See examples at https://github.com/openmindculture/hexagonal-masonry-placement/examples/index.html
+
+### Public methods
+
+#### refineMasonryLayout
+
+* refine masonry layout element
+  * add `.custom-shifted` class to list items where necessary
+* @param {string} gridId (optional)
+* @param {HTMLElement} grid (optional)
+* @returns {void}
+
+#### refineAllMasonryLayouts
+
+* refine all masonry layouts with `.custom-grid-has-row-behavior`
+* @returns {void}
+
+#### initMasonryLayouts
+
+* initialize event listeners:
+  * refineAllMasonryLayouts on DOMContentLoaded
+  * refineAllMasonryLayouts on window resize
+* @returns {void}
+
+#### removeMasonryEventListeners
+
+* remove event listeners
+* @returns {void}
+
 
 ## Development
 
